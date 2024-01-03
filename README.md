@@ -1,1 +1,2 @@
 # Quiz
+STATIC SITE
